@@ -1,6 +1,6 @@
 <h1 align="center">Weather AI App</h1>
 
->Status: Em desenvolvimento...
+>Status: Abandonado...
 
 <!-- <p align="center">
   <img src="sua-imagem-preview.png" alt="Weather AI App Preview" style="border-radius: 4px">
