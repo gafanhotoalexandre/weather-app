@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-t from-[#394f68] to-[#183b7e] p-10 flex flex-col items-center justify-center">
       <Card className="max-w-4xl mx-auto">
-        <Title className="text-6xl text-[#6B7280] leading-none font-bold text-center mb-10">
+        <Title className="text-[#6B7280] leading-none font-bold text-center mb-10">
           Weather AI App
         </Title>
         <Subtitle className="text-xl text-center">

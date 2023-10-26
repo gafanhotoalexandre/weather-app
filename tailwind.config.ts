@@ -95,7 +95,7 @@ const config: Config = {
       fontSize: {
         'tremor-label': ['0.75rem', { lineHeight: '' }],
         'tremor-default': ['0.875rem', { lineHeight: '1.25rem' }],
-        'tremor-title': ['1.125rem', { lineHeight: '1.75rem' }],
+        'tremor-title': ['3.75rem', { lineHeight: '1' }], // modifiquei para o meu title
         'tremor-metric': ['1.875rem', { lineHeight: '2.25rem' }],
       },
     },

@@ -25,3 +25,23 @@ Este projeto utiliza as seguintes tecnologias:
 - TypeScript
 - TailwindCSS
 - Tremor
+
+## Informações Úteis
+- Projeto no ar [aqui](https://weather-app-seven-phi-92.vercel.app/)
+
+## Executando o Projeto
+Certifique-se de que você tenha o Node.js instalado em seu sistema.
+
+### Pré-requisitos
+
+Certifique-se de que você tenha o Node.js instalado em seu sistema.
+
+### Instalação
+Clone o repositório e instale as dependências:
+
+```bash
+git clone https://github.com/gafanhotoalexandre/weather-app.git
+cd weather-app
+npm install
+npm run dev
+```
